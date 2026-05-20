@@ -1,0 +1,2 @@
+# No external dependencies required for the base script.
+# Standard library 'difflib' is used.
